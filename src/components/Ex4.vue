@@ -33,4 +33,5 @@ function removeItem(index){
         <input v-model="newItem" type="text">
         <button @click="addItem">Add!</button>
     </div>
+
 </template>
