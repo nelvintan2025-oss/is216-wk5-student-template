@@ -13,6 +13,8 @@ function addItem(){
 
 function removeItem(index){
   items.value.splice(index,1)
+  //array.splice(startIndex, deleteCount, item1, item2, ...)
+  //The new elements you want to insert at that position. "startindex position"
 }
 </script>
 
